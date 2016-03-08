@@ -4,7 +4,7 @@
  * https://github.com/davequintana/windx
  * Version: 1.0.0
  * WindX -- Keep your windows clean -- is a javascript library that allows you to manage the state
- * of your browser for responsive design. It is base on modules that extend the base client module.
+ * of your browser for responsive design. It is based on modules that extend the base client module.
  * License: MIT License
  * The MIT License (MIT)
  * Copyright (c) 2016 Dave Quintana
